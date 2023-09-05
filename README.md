@@ -1,4 +1,5 @@
 #USER_MANAGEMENT_SYSTEM
+
 #Overview
 Welcome to the User Management System README! This is a simple web application designed to manage a collection of users through basic CRUD (Create, Read, Update, Delete) operations. The application is built using Java Servlets, JSP (JavaServer Pages), and utilizes MySQL as the database. Below, you'll find information on setting up and using this application.
 
